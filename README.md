@@ -4,7 +4,7 @@
 
 [Appwish features map](https://app.creately.com/diagram/SB1Gc6cyHdD/view)
 
-## This repository is created for knowledge sharing - if you wanna know something about the project, look inside
+## This repository is created for knowledge sharing - if you wanna learn something about the project, look inside
 
 All documents and guides related to the Appwish will be stored here.
 
