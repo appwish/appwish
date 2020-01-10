@@ -20,6 +20,6 @@ Anything you use during the development that saves you time, like a bash script,
 
 Simply create a folder and put your stuff inside! For example, if you share some fancy bash script, create folder `scripts` and put your bash file inside.
 
-### Why are pull-requests necessary?
+### Why are pull requests necessary?
 
 To keep things clean and organized! :)
